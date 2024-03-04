@@ -1,6 +1,6 @@
-# Python install for windows
+# Python Install for Windows
 
-![](https://analyticsindiamag.com/wp-content/uploads/2019/10/python-1-1600x901.jpg)
+![Python](https://python.tutorials24x7.com/uploads/2020-06-20/banner/tutorials24x7-install-python-3-8-on-windows-10-banner.jpg)
 
 1. **Download Python Installer**: 
    - Go to the [official Python website](https://www.python.org/) and navigate to the Downloads section.
@@ -44,23 +44,20 @@
 
 That's it! You've now installed Python and pip on your Windows system. You can use pip to install Python packages and manage dependencies for your projects.
 
-   ## VsCode Extensions
+## VsCode Extensions
 
-Install the following extension for vsCode:
+Install the following extensions for VS Code:
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
 
-Open the `main.py` file, vsCode will prompt you to install a few things such as:
-
-- Linter, select `pylint`
-- Formatter, select `autopep`
-
-The python language extension gives us better support for the python language such as, intellisense, autocomplete and linting.
+These extensions give us better support such as intellisense, autocomplete, and linting.
 
 
 # Note
-All lessons are tailored for Macs, so whenever a lesson instructs you to use "python3" as a command line command, please use "python" instead.
 
-for example:
+All lessons are written from the perspective of a Mac, so whenever a lesson instructs you to use `python3` as a command, please use `python` instead.
 
-instead of `python3 --version` you'll use `python --version`
+For example:
+
+- Instead of `python3 --version`, you'll use `python --version`
